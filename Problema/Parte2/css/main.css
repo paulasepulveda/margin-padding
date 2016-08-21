@@ -1,1 +1,21 @@
-/* Agrega aqui tu CSS */
+h2, p {
+  
+      font-size: 20px;
+     
+}
+
+.caja {
+	display: inline-block;
+	border: 2px solid #CE4A4A;
+	width:230px;
+
+	padding-left: 9px;
+	padding-right: 15px;
+	padding-top: 2px;
+	padding-bottom: 5px;
+	margin-bottom:none;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 450px;
+    visibility: ;
+}
